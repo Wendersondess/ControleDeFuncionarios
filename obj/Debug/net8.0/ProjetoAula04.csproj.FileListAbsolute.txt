@@ -1,0 +1,17 @@
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.csproj.AssemblyReference.cache
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.AssemblyInfoInputs.cache
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.AssemblyInfo.cs
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.csproj.CoreCompileInputs.cache
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\bin\Debug\net8.0\ProjetoAula04.exe
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\bin\Debug\net8.0\ProjetoAula04.deps.json
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\bin\Debug\net8.0\ProjetoAula04.runtimeconfig.json
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\bin\Debug\net8.0\ProjetoAula04.dll
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\bin\Debug\net8.0\ProjetoAula04.pdb
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoA.152A147E.Up2Date
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.dll
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\refint\ProjetoAula04.dll
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.pdb
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ProjetoAula04.genruntimeconfig.cache
+C:\Users\wende_3a7g6ph\Desktop\projetos\ProjetoAula04\ProjetoAula04\obj\Debug\net8.0\ref\ProjetoAula04.dll
